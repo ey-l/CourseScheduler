@@ -1,0 +1,24 @@
+1. API Indroduction
+https://schoolofdata.org/2013/11/18/web-apis-for-non-programmers/
+
+A good way to access UBC Registration webs, but in limited ways if data are protected
+
+Implication:
+Paramters - used for looking for a specific course
+
+
+2. Found this on GitHub, wondering if it is useful (looks useful though)
+https://github.com/ubc/course-shortcode
+
+
+3. Web Scraping Tutorial in PHP
+http://docs.python-guide.org/en/latest/scenarios/scrape/
+
+Bad news: Does that mean we have to use php as well?
+Good news: after we get the data, we can save it to a file and use it from then
+
+Recommend: double check how the web scraping is done in Mind the Gap project
+
+
+4. Useful Web Scraping Video Sieri
+https://www.youtube.com/watch?v=kPhZDsJUXic
